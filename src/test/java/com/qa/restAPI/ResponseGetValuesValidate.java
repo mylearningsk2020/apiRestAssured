@@ -12,7 +12,7 @@ import static org.hamcrest.Matchers.*;
  * This class is created as part of reading values from json response file using responsegetter class
  *
  */
-public class responseGetValues2 {
+public class ResponseGetValuesValidate {
 			
 	@Test(priority=1)
 	public void isLastNameAlphaTest() {
